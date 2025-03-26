@@ -46,6 +46,25 @@ This repository contains implementations of various **Data Warehousing and Minin
    - Evaluated model performance using **RMSE and R² scores**.
 
 ---
+## ⚙️ How to Run the Programs
+
+### 1. Clone the repository:
+> ```sh
+> git clone https://github.com/Krutikagadge/dwm-practicals.git
+> cd dwm-practicals
+> ```
+
+### 2. Install dependencies:
+> ```sh
+> pip install pandas numpy scikit-learn matplotlib
+> ```
+
+### 3. Run individual scripts using Python:
+> ```sh
+> python file_name.py
+> ```
+
+---
 
 ## 🎯 Conclusion
 - These practicals provide hands-on experience with essential Data Warehousing and Mining techniques, including data preprocessing, ETL transformations, OLAP operations, and machine learning algorithms for data analysis and pattern recognition.
