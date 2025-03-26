@@ -47,15 +47,6 @@ This repository contains implementations of various **Data Warehousing and Minin
 
 ---
 
-## ⚙️ How to Run the Programs  
-
-### 1️⃣ Clone the Repository  
-```sh
-git clone https://github.com/Krutikagadge/dwm-practicals.git
-cd dwm-practicals
-```sh
----
-
 ## 🎯 Conclusion
 These practicals provide hands-on experience with essential Data Warehousing and Mining techniques, including data preprocessing, ETL transformations, OLAP operations, and machine learning algorithms for data analysis and pattern recognition.
 ---
