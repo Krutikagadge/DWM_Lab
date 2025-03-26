@@ -48,9 +48,9 @@ This repository contains implementations of various **Data Warehousing and Minin
 ---
 
 ## 🎯 Conclusion
-These practicals provide hands-on experience with essential Data Warehousing and Mining techniques, including data preprocessing, ETL transformations, OLAP operations, and machine learning algorithms for data analysis and pattern recognition.
+- These practicals provide hands-on experience with essential Data Warehousing and Mining techniques, including data preprocessing, ETL transformations, OLAP operations, and machine learning algorithms for data analysis and pattern recognition.
 ---
 
 ## 📢 Note
-This repository is maintained as part of the Semester VI DWM Practical coursework.
+- This repository is maintained as part of the Semester VI DWM Practical coursework.
 ---
