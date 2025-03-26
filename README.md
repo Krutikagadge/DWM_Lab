@@ -53,6 +53,7 @@ This repository contains implementations of various **Data Warehousing and Minin
 ```sh
 git clone https://github.com/Krutikagadge/dwm-practicals.git
 cd dwm-practicals
+```sh
 ---
 
 ## 🎯 Conclusion
